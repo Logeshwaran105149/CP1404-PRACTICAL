@@ -17,9 +17,9 @@ Throughout this course, I've learned several important lessons about writing cle
 3. **Efficiency**: Optimize code to run faster and consume less memory by using appropriate data structures and algorithms.
 ## Links
 
-- [Logeshwaran Cp1404 Practicals Github](https://github.com/Logeshwaran105149/cp1404practical) - A Githbub Repo Containaing All CP1404 Practical Files.
-- [CP1404 Practicals Instructions Repo](https://github.com/CP1404/Practicals) - The official repository containing detailed instructions for each practical task for CP1404.
+- [Logeshwaran Cp1404 Practicals Github](https://github.com/Logeshwaran105149/CP1404-PRACTICAL/tree/main) - A Githbub Repo Containaing All CP1404 Practical Files.
+- [CP1404 Practicals Instructions Repo](https://github.com/CP1404/Practicals/tree/master/prac_07) - The official repository containing detailed instructions for each practical task for CP1404.
 
 ## Committed
 
-Last Committed on 05-05-2023.
+Last Committed on 21-03-2024.
